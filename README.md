@@ -1,2 +1,5 @@
-# speech-coach-app
-Built files only for Speech Coach (source is private). Served by GitHub Pages.
+# Speech Coach
+
+This repository holds built files only. The source stays private.
+
+GitHub Pages serves the app at https://bzlarsen.github.io/speech-coach-app/.
